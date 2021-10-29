@@ -1,0 +1,12 @@
+C:\Users\vin\source\repos\Grader\Grader\bin\Debug\Grader.exe.config
+C:\Users\vin\source\repos\Grader\Grader\bin\Debug\Grader.exe
+C:\Users\vin\source\repos\Grader\Grader\bin\Debug\Grader.pdb
+C:\Users\vin\source\repos\Grader\Grader\bin\Debug\Grader.xml
+C:\Users\vin\source\repos\Grader\Grader\obj\Debug\Grader.vbprojAssemblyReference.cache
+C:\Users\vin\source\repos\Grader\Grader\obj\Debug\Grader.Form1.resources
+C:\Users\vin\source\repos\Grader\Grader\obj\Debug\Grader.Resources.resources
+C:\Users\vin\source\repos\Grader\Grader\obj\Debug\Grader.vbproj.GenerateResource.cache
+C:\Users\vin\source\repos\Grader\Grader\obj\Debug\Grader.vbproj.CoreCompileInputs.cache
+C:\Users\vin\source\repos\Grader\Grader\obj\Debug\Grader.exe
+C:\Users\vin\source\repos\Grader\Grader\obj\Debug\Grader.xml
+C:\Users\vin\source\repos\Grader\Grader\obj\Debug\Grader.pdb
